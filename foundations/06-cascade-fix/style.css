@@ -5,7 +5,7 @@ body {
 .para,
 .small-para {
   color: hsl(0, 0%, 0%);
-  font-weight: 800;
+  font-weight: 1000;
 }
 
 .para {
@@ -24,7 +24,7 @@ body {
 }
 
 .confirm {
-  background: green;
+  background: red;
   color: white;
   font-weight: bold;
 } 
